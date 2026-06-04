@@ -1,0 +1,1 @@
+Este proyecto controla con Unity un coche con una raspberrypi que usa freenove. Unity envía inputs (WASD) para mover el coche y las flechas (<-, ->) para mover la cámara. El servidor de la raspberrypi envía la imagen de la cámara y Unity la muestra en un Canvas.
